@@ -1,4 +1,4 @@
-# 🤖 CSS Gerador com IA
+# 🤖 Gerador CSS com IA
 
 <div align="center">
   <img src="bot.jpg" alt="Robô IA" width="120" height="120" style="border-radius: 50%;">
