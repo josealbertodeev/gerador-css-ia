@@ -13,6 +13,9 @@
 
 ---
 
+![video css IA](https://github.com/user-attachments/assets/16bb30d6-9f15-4785-a8fb-2e13f8e1319a)
+
+
 ## 📋 Sobre o Projeto
 
 O **CSS Gerador com IA** é uma aplicação web inovadora que permite aos usuários descrever visualmente o que desejam criar e receber automaticamente o código CSS/HTML correspondente. Utilizando o poder da IA através da API Groq com o modelo Llama 3.3, a ferramenta interpreta descrições em linguagem natural e gera código funcional.
