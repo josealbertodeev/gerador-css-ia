@@ -13,8 +13,7 @@
 
 ---
 
-![video css IA](https://github.com/user-attachments/assets/16bb30d6-9f15-4785-a8fb-2e13f8e1319a)
-
+<img width="1289" height="869" alt="video PC1" src="https://github.com/user-attachments/assets/ebd40a69-dec2-4ad5-8c3b-63a567ecdd0e" />
 
 ## 📋 Sobre o Projeto
 
@@ -164,6 +163,6 @@ let chaveApi = "sua-chave-api-aqui"
 <button class="botao">Clique aqui</button>
 ```
 
-🔗 Deploy acesse [aqui](https://gerador-css-ia-virid.vercel.app/)
+🔗Deploy acesse [aqui](https://gerador-css-ia-virid.vercel.app/)
 ---
 
