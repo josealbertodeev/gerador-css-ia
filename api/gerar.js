@@ -28,5 +28,10 @@ export default async function handler(req, res) {
     })
 
     const dados = await resposta.json()
+
+    if (!resposta.ok) {
+        return res.status(resposta.status).json({ error: dados.error?.message || "Erro na API Groq" })
+    }
+
     res.status(200).json(dados)
 }
